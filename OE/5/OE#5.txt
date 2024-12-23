@@ -1,0 +1,142 @@
+Name: Moriah De Pedro
+=== OE #5 ===
+
+GAME OBJECT 1: Floryn
+
+=> ATTRITBUTES
+-name
+-role
+-build
+-emblem
+-hp
+-magic power
+-mana
+-magic damage
+-sustain
+-lane
+
+=> METHODS
+-dew
+-sow
+-sprout
+-bloom
+-healing
+-crown control
+
+===========================================
+
+GAME OBJECT 2: Miya
+
+=> ATTRITBUTES
+-build
+-emblem
+-hp
+-physical attack
+-physical damage
+-lane
+
+=> METHODS
+- moon blessing
+-moon arrow
+-arrow of eclipse
+-hidden moonlight
+-crowd control
+
+===========================================
+
+GAME OBJECT 3: Brody
+
+=> ATTRITBUTES
+-skin
+-role
+-emblem
+-hp
+-physical attack
+-physical damage
+-lane
+
+=> METHODS
+-abyss corrosion
+-abyss impact
+-corrosive strike
+-torn apart memory
+
+===========================================
+
+GAME OBJECT 4: Eudora
+
+=> ATTRITBUTES
+-role
+-lane
+-specialty
+-durability
+-magic damage
+
+=> METHODS
+-forked lightning
+-ball lightning
+-thunder's wrath
+-combo
+-positioning
+
+===========================================
+
+GAME OBJECT 5: Floryn
+
+=> ATTRITBUTES
+-
+
+=> METHODS
+- 
+
+===========================================
+
+GAME OBJECT 6: Floryn
+
+=> ATTRITBUTES
+-
+
+=> METHODS
+- 
+
+===========================================
+
+GAME OBJECT 7: Floryn
+
+=> ATTRITBUTES
+-
+
+=> METHODS
+- 
+
+===========================================
+
+GAME OBJECT 8: Floryn
+
+=> ATTRITBUTES
+-
+
+=> METHODS
+- 
+
+===========================================
+
+GAME OBJECT 9: Floryn
+
+=> ATTRITBUTES
+-
+
+=> METHODS
+- 
+
+===========================================
+
+GAME OBJECT 10: Floryn
+
+=> ATTRITBUTES
+-
+
+=> METHODS
+- 
+
+===========================================
